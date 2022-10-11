@@ -58,6 +58,7 @@ public class Student_start
         				l1.forEach(ob5 -> System.out.println(ob5.getId() +"\t\t"+ ob5.getU_fname()+"\t\t "+ ob5.getU_ltname()+"\t\t "
         				+ ob5.getU_gender()+"\t\t "+ ob5.getU_age()+"\t\t "
         				+ ob5.getU_dob()+"\t\t "+ ob5.getU_email()));
+				System.out.println("**=============**=================**=============**=============**=================**=============**");
         			
         	        	break;
         	        }
